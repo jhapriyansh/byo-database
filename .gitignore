@@ -1,0 +1,22 @@
+# C build artifacts
+*.o
+*.obj
+*.out
+*.dSYM/
+
+# Local binaries
+/db
+/main_repl
+
+# Ruby/Bundler local artifacts
+.bundle/
+vendor/bundle/
+
+# Test and runtime artifacts
+*.log
+*.tmp
+
+# OS/editor files
+.DS_Store
+*.swp
+*.swo
