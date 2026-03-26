@@ -6,8 +6,8 @@
 
 # Local binaries
 /db
-/main_repl
-
+/mydb.db
+/spec/*.bak
 # Ruby/Bundler local artifacts
 .bundle/
 vendor/bundle/
