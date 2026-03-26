@@ -6,7 +6,7 @@
 
 # Local binaries
 /db
-/mydb.db
+/test.db
 /spec/*.bak
 # Ruby/Bundler local artifacts
 .bundle/
